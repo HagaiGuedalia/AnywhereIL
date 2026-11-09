@@ -1,0 +1,6 @@
+{
+  "name": "Bayit Cham - Shabbat & Holiday Hosting in Israel",
+  "description": "Connecting Jewish Olim, students, and lone soldiers with warm host families across Israel for Shabbat and Chagim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
